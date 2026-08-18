@@ -2,7 +2,7 @@
 
 PPI-Flow is an end-to-end framework for automating and calibrating hierarchical taxonomy classification of educational content. The project addresses the challenges of dynamic educational taxonomies, label imbalance, and noisy weak supervision by integrating dense retrieval models, Large Language Models (LLMs), and statistical calibration techniques.
 
-This repository contains the implementation of the concepts detailed in the research project "Efficient Taxonomy Tagging for Educational Content" by Harsh Rajput (IIIT Delhi).
+This repository contains the implementation of the concepts detailed in the research project "Efficient Taxonomy Tagging for Educational Content" by Krishna Shukla.
 
 ## Features
 
